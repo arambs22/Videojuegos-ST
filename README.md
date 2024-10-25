@@ -1,6 +1,6 @@
 # Videojuegos-ST (Semana Tec)
 
-Este repositorio contiene cinco pequeños videojuegos desarrollados como parte de un curso que nos enseña a utilizar Git. Los proyectos incluyen funcionalidades como ramas (branches) y fusiones (merges) al main de cada código. A continuación, se detallan los juegos y sus características.
+¡Bienvenido a este repositorio de videojuegos! Aquí encontrarás cinco proyectos de juegos sencillos que he desarrollado como parte de un curso sobre el uso de Git. Cada juego incluye ejercicios y modificaciones para mejorar su funcionalidad y jugabilidad. Mi nombre es Aram Barsegyan y espero que disfrutes explorando estos proyectos.
 
 ## Juegos
 
