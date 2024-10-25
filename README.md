@@ -4,42 +4,42 @@ Este repositorio contiene cinco pequeños videojuegos desarrollados como parte d
 
 ## Juegos
 
-1. **Paint**
+1. **Act 1: Paint**
    - Un juego de pintura donde puedes dibujar diferentes figuras (líneas, cuadrados, círculos, rectángulos y triángulos) en varios colores.
-   - Ejercicios:
+   - Ejercicios realizados:
      - Añadir un color.
      - Completar círculos, rectángulos y triángulos.
      - Añadir un parámetro de ancho.
 
-2. **Víbora (Snake)**
+2. **Act 2: Víbora (Snake)**
    - Una versión modificada del clásico juego de Snake, donde la comida también se mueve y tanto la serpiente como la comida cambian de color.
-   - Ejercicios:
+   - Ejercicios realizados:
      - Ajustar la velocidad de la serpiente.
      - Permitir que la serpiente rodee los bordes.
      - Hacer que la comida se mueva.
 
-3. **Pac-Man**
+3. **Act 3: Pac-Man**
    - Un Pac-Man con un tablero diferente y fantasmas más rápidos e inteligentes, lo que lo hace más desafiante.
-   - Ejercicios:
+   - Ejercicios realizados:
      - Cambiar el tablero.
      - Modificar el número de fantasmas.
      - Ajustar la velocidad y la inteligencia de los fantasmas.
 
-4. **Tiro Parabólico**
+4. **Act 4: Tiro Parabólico**
    - Un juego de tiro en el que destruyes objetivos en forma de balones con proyectiles disparados desde un cañón.
-   - Ejercicios:
+   - Ejercicios realizados:
      - Contar los aciertos.
      - Variar el efecto de la gravedad.
 
-5. **Juego de Memoria**
+5. **Act 5: Juego de Memoria**
    - Un juego de memoria con emojis donde debes descubrir pares hasta completar la imagen.
-   - Ejercicios:
+   - Ejercicios realizados:
      - Contar y mostrar el número de toques realizados.
      - Detectar cuando todas las fichas han sido reveladas.
 
-## Requisitos
+## Librerías requeridas
 
-Para ejecutar estos juegos, necesitas instalar las siguientes librerías de Python:
+Para ejecutar estos juegos, necesitas instalar las siguientes librerías de Python en la terminal:
 
 ```bash
 pip install freegames turtle
