@@ -47,8 +47,6 @@ pip install freegames turtle
 
 ## Historiales de Commits
 
-## Historiales de Commits
-
 | Actividad                        | Historial de commits                                                                |
 |-----------------------------|------------------------------------------------------------------------|
 | **Act 1: Paint**           | ![Paint](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act1.png) |
