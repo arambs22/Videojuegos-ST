@@ -47,12 +47,17 @@ pip install freegames turtle
 
 ## Historiales de Commits:
 
-**Act 1:** ![Paint](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act1.png)
+**Act 1: Paint** 
+![Paint](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act1.png)
 
-**Act 2:**![Víbora (Snake)](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act2.png)
+**Act 2: Víbora (Snake)**
+![Víbora (Snake)](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act2.png)
 
-**Act 3:**![Pac-Man](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act3.png)
+**Act 3: Pac-Man**
+![Pac-Man](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act3.png)
 
-**Act 4:**![Tiro Parabólico](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act4.png)
+**Act 4: Tiro Parabólico**
+![Tiro Parabólico](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act4.png)
 
-**Act 5:**![Memoria](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act5.png)
+**Act 5: Memoria**
+![Memoria](https://github.com/arambs22/Videojuegos-ST/blob/main/Historiales%20de%20Commits/Act5.png)
