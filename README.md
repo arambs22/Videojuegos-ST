@@ -37,6 +37,7 @@
      - Contar y mostrar el número de toques realizados.
      - Detectar cuando todas las fichas han sido reveladas.
 
+
 ## Librerías requeridas
 
 Para ejecutar estos juegos, necesitas instalar las siguientes librerías de Python en la terminal:
@@ -44,6 +45,7 @@ Para ejecutar estos juegos, necesitas instalar las siguientes librerías de Pyth
 ```bash
 pip install freegames turtle
 ```
+
 
 ## Historiales de Commits
 
